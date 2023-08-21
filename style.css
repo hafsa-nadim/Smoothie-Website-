@@ -1,0 +1,202 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+    
+}
+body{
+    background-color: #f7f7f7;
+}
+.navbar-brand{
+    font-size: 1.2rem;
+    color:  rgb(91, 10, 91);
+    font-family: adelia;
+}
+.navbar-brand:hover{
+    color: black;
+    font-style:oblique;
+}
+.nav-link{
+    margin-right: 10px;
+    margin-left: 10px;
+    color: black;
+    font-family: lemon milk;
+    text-transform: uppercase;
+}
+.nav-link:hover{
+    color:rgb(236, 30, 115);
+    font-style: oblique;
+}
+.search{
+    height: 40px;
+    width: 80%;
+    border-radius: 60px;
+    outline: none;
+    margin-right: -35px;
+    border: 2px solid rgb(248,26,92);
+    font-family: sans-serif;
+}
+.btn0{
+    height: 40px;
+    width: 40%;
+    outline: none;
+    border: none;
+    background: rgb(248,26,92);
+    color: white;
+    font-family: sans-serif;                                        
+    border-radius:60px;
+    font-weight: 700;
+    
+}
+.btn0:hover{
+    background-color: rgb(232, 109, 109);
+}
+.main{
+   background: url(./front-view-jar-dessert.jpg);
+   background-size: cover;
+   height:100vh;
+   background-position: 50% 50%;
+   width: 100%
+}
+.main h1{
+    font-size: 4rem;
+    font-weight: 700;
+}
+.btn1{
+     height: 40px;
+     width: 25%;
+     border: none;
+     outline: none;
+     background-color: rgb(248,26,92);
+     color: white;
+     font-weight: 700;
+     border-radius: 60px;
+     margin-left: -190px;
+     font-family: lemon milk;
+}
+.btn1:hover{
+   background-color: rgb(219, 57, 57);
+   transition:0.5s ;
+}
+h1{
+    font-weight: 700;
+}
+.card:hover{
+    -webkit-box-shadow: -3px -1px 35px -4px rgba(0,0,0,0.75);
+-moz-box-shadow: -3px -1px 35px -4px rgba(0,0,0,0.75);
+box-shadow: -3px -1px 35px -4px rgba(0,0,0,0.75);  
+transition: 0.5s;
+}
+.apple{
+    background:linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2)),url(./front-view-jars-.jpg) no-repeat;
+    background-size: cover;
+    height: 700px;
+    width: 1335px;
+    margin-left: -90px;
+}
+.apple h1{
+    font-family: 'Yummy' , cursive;
+}
+.news{
+    background-color:black;
+    color:white; 
+}
+.btn2{
+    height: 45px;
+    width: 100px;
+    background: white;
+    margin-left:-10px;
+    border: 2px solid white;
+    font-weight:600;
+}
+.news input{
+    height:45px;
+    width:55%;
+    border: 2px solid white;
+    outline: none;
+    background: black;
+    color:white;
+    margin-top:20px;
+    font-weight: 600;
+}
+
+.news::placeholder{
+    color:white;
+}
+.news p{
+    margin: 0;
+}
+.fab{
+    font-size: 2.5rem;
+    cursor: pointer;
+    padding-right: 5px;
+}
+#line{
+    font-size: 45px;
+    font-family: Catalish Huntera;
+    color: rgb(91, 10, 91);
+}
+.col-lg-4:hover{
+    -webkit-box-shadow: -3px -1px 35px -4px rgba(0,0,0,0.75);
+-moz-box-shadow: -3px -1px 35px -4px rgba(0,0,0,0.75);
+box-shadow: -3px -1px 35px -4px rgba(0,0,0,0.75);  
+transition: 0.5s;
+
+}
+.new{
+    background-color: rgb(215, 178, 251);
+}
+.col-lg-4{
+    font-family: Catalish Huntera ;
+}
+.head{
+    color: white;
+    font-family: lemon milk;
+    margin-top:-60px;
+}
+.color{
+    font-family: Southland;
+    font-size: 40px;
+}
+
+.heady{
+    font-family: lemon milk;
+}
+#photo2{
+    width: 200px;
+}
+#card3{
+    width: 200px;
+    height: 447px;
+}
+#Butter{
+ background-color:   #c0196c;
+ border:  #c0196c;
+}
+#card1{
+    width: 190px;
+    height: 437px;
+}
+.container{
+    margin-left: 90px;
+}
+    
+#Butter3{
+    background-color:   #c0196c;
+    border:  #c0196c;
+    margin-left: 70px;
+   }
+#row{
+    font-family: sans-serif;
+
+}
+#section{
+    background-color: black;
+    background-size: cover;
+    margin-left: -100px;
+    margin-right: -130px;
+    margin-bottom: -50px;
+}
+#bliss{
+    margin-left: 110px;
+}
